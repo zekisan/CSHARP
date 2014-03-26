@@ -1,0 +1,5 @@
+C:\Users\rafael.simor\Documents\CSHARP\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\rafael.simor\Documents\CSHARP\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\rafael.simor\Documents\CSHARP\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\rafael.simor\Documents\CSHARP\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\rafael.simor\Documents\CSHARP\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb

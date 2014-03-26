@@ -9,6 +9,9 @@ namespace FirstProgram
     {
         static void Main(string[] args)
         {
+            int x = 12 * 30; // Statement 1
+            Console.WriteLine(x); // Statement 2
+            Console.ReadLine();
         }
     }
 }
