@@ -1,0 +1,5 @@
+C:\Users\rafael.simor\Documents\CSHARP\TiposValorVSTiposReferencia\TiposValorVSTiposReferencia\bin\Debug\TiposValorVSTiposReferencia.exe
+C:\Users\rafael.simor\Documents\CSHARP\TiposValorVSTiposReferencia\TiposValorVSTiposReferencia\bin\Debug\TiposValorVSTiposReferencia.pdb
+C:\Users\rafael.simor\Documents\CSHARP\TiposValorVSTiposReferencia\TiposValorVSTiposReferencia\obj\Debug\TiposValorVSTiposReferencia.csprojResolveAssemblyReference.cache
+C:\Users\rafael.simor\Documents\CSHARP\TiposValorVSTiposReferencia\TiposValorVSTiposReferencia\obj\Debug\TiposValorVSTiposReferencia.exe
+C:\Users\rafael.simor\Documents\CSHARP\TiposValorVSTiposReferencia\TiposValorVSTiposReferencia\obj\Debug\TiposValorVSTiposReferencia.pdb

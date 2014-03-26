@@ -1,0 +1,5 @@
+C:\Users\rafael.simor\Documents\CSHARP\InstanciaVSStatic\InstanciaVSStatic\bin\Debug\InstanciaVSStatic.exe
+C:\Users\rafael.simor\Documents\CSHARP\InstanciaVSStatic\InstanciaVSStatic\bin\Debug\InstanciaVSStatic.pdb
+C:\Users\rafael.simor\Documents\CSHARP\InstanciaVSStatic\InstanciaVSStatic\obj\Debug\InstanciaVSStatic.csprojResolveAssemblyReference.cache
+C:\Users\rafael.simor\Documents\CSHARP\InstanciaVSStatic\InstanciaVSStatic\obj\Debug\InstanciaVSStatic.exe
+C:\Users\rafael.simor\Documents\CSHARP\InstanciaVSStatic\InstanciaVSStatic\obj\Debug\InstanciaVSStatic.pdb
