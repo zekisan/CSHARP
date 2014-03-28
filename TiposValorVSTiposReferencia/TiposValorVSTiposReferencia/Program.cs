@@ -38,8 +38,31 @@ namespace TiposValorVSTiposReferencia
             Console.WriteLine("P1: " + p1.X);
             Console.WriteLine("P2: " + p2.X);
             Console.ReadKey();
+
+            
+            
         }
     }
 
     public struct Point { public int X, Y; }
+
+    class Test
+    {
+        //params faz com que o método aceite qualquer número de parâmetros de um tipo em particular
+        //deve ser especificado no último parâmetro do método
+        static int Sum(params int[] ints)
+        {
+            int sum = 0;
+            for (int i = 0; i < ints.Length; i++)
+            {
+                sum += ints[i];
+            }
+            return sum;
+        }
+
+        static void modifierParams()
+        {
+            int total = Sum(1, 2, 3, 4);
+        }
+    }
 }
